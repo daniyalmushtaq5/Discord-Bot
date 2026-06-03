@@ -1,4 +1,4 @@
-Discord Betting Bot:
+Discord Bot:
 Overview:
 This is a Discord bot script written in Python that provides betting information and statistics to users. The bot fetches data about active bets and generates statistics based on betting activity over daily, weekly, and monthly intervals.
 Features:
